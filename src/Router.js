@@ -1,18 +1,15 @@
 import React from "react"
-import { BrowserRouter, Route } from "react-router-dom"
-import { Switch } from 'switch'
-import HomePage from "./pages/HomePage"
+import { BrowserRouter, Routes, Route } from "react-router-dom"
+import Homepage from "./pages/HomePage"
 
-export default function Router() {
+function Router() {
   return (
-    <div>
-      <BrowserRouter>
-        <Switch>
-          <Route exact path="/">
-            <HomePage />
-          </Route>
-        </Switch>
-      </BrowserRouter>
-    </div>
-  );
+    <BrowserRouter>
+      <Routes>
+        <Route exact path='/' element={<Homepage />}></Route>
+      </Routes>
+    </BrowserRouter>
+  )
 }
+
+export default Router
