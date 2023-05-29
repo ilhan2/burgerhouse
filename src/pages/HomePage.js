@@ -1,10 +1,19 @@
 import React from 'react'
+import HeroTop from '../components/marketing/pageSections/HeroTop'
+import LastProducts from '../components/marketing/pageSections/LastProducts'
+import Products from '../components/marketing/pageSections/Products'
+import Event from '../components/marketing/pageSections/Event'
+import Booking from '../components/marketing/pageSections/Booking'
 
 
 export default function HomePage() {
   return (
-    <div className='text-xs text-green-500'>
-      Hello world de la HomePage
-    </div>
+    <>
+    <HeroTop />
+    <LastProducts />
+    <Products />
+    <Event />
+    <Booking />
+    </>
   )
 }
