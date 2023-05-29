@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/burgerhouse/static/css/main.db513130.css",
+    "main.js": "/burgerhouse/static/js/main.bcc02474.js",
+    "static/js/787.59ab72e3.chunk.js": "/burgerhouse/static/js/787.59ab72e3.chunk.js",
+    "static/media/burger-hero-top.png": "/burgerhouse/static/media/burger-hero-top.01d2f5acc2d8bf51ebc6.png",
+    "static/media/Assiette-burger-frites.png": "/burgerhouse/static/media/Assiette-burger-frites.3ee7c3e48d42df1001e3.png",
+    "static/media/Product-1.jpg": "/burgerhouse/static/media/Product-1.d0c49ebdd1f1b3421a83.jpg",
+    "static/media/Product-3.jpg": "/burgerhouse/static/media/Product-3.b95213431ef9066d0776.jpg",
+    "static/media/Product-2.jpg": "/burgerhouse/static/media/Product-2.504688454c23bb02a7b1.jpg",
+    "static/media/dorian-hurst-d-igN2ptyC8-unsplash.jpg": "/burgerhouse/static/media/dorian-hurst-d-igN2ptyC8-unsplash.bed53adb4a04d76a2725.jpg",
+    "static/media/Burger.png": "/burgerhouse/static/media/Burger.ff26c3559924fbaf2d1e.png",
+    "static/media/LastProducts-1.jpg": "/burgerhouse/static/media/LastProducts-1.96844d38adc51882ecd6.jpg",
+    "static/media/LastProducts-3.jpg": "/burgerhouse/static/media/LastProducts-3.1d0fdf670a5f99781a8e.jpg",
+    "static/media/Sauce-pimente.png": "/burgerhouse/static/media/Sauce-pimente.6684f7248db6ffd58d16.png",
+    "static/media/LastProducts-2.jpg": "/burgerhouse/static/media/LastProducts-2.976c66add7bdebd2e8ee.jpg",
+    "static/media/bg-food.jpg": "/burgerhouse/static/media/bg-food.439909da1185900df67e.jpg",
+    "static/media/Logo-burger-house.svg": "/burgerhouse/static/media/Logo-burger-house.9d092860e628a98eda78c65507ab6b4f.svg",
+    "static/media/ico-bag-clickAndCollect.svg": "/burgerhouse/static/media/ico-bag-clickAndCollect.34cb427c017a69507dd6a9a31c4d29aa.svg",
+    "index.html": "/burgerhouse/index.html",
+    "main.db513130.css.map": "/burgerhouse/static/css/main.db513130.css.map",
+    "main.bcc02474.js.map": "/burgerhouse/static/js/main.bcc02474.js.map",
+    "787.59ab72e3.chunk.js.map": "/burgerhouse/static/js/787.59ab72e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db513130.css",
+    "static/js/main.bcc02474.js"
+  ]
+}
